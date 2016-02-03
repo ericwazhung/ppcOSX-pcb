@@ -1,0 +1,4 @@
+
+'/opt/local/lib/X11/locale' DNE. Requested by '../lib/libX11.6.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'

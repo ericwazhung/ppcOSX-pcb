@@ -1,0 +1,15 @@
+
+'/opt/local/lib/libgobject-2.0.la /opt/local/lib/libgthread-2.0.la /opt/local/lib/libffi.la /opt/local/lib/libgmodule-2.0.la /opt/local/lib/libglib-2.0.la -lresolv /opt/local/lib/libintl.la /opt/local/lib/libiconv.la -lc -lm'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-lang.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libgobject-2.0.la /opt/local/lib/libgthread-2.0.la /opt/local/lib/libffi.la /opt/local/lib/libgmodule-2.0.la /opt/local/lib/libglib-2.0.la -lresolv /opt/local/lib/libintl.la /opt/local/lib/libiconv.la -lc -lm'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libgobject-2.0.la /opt/local/lib/libgthread-2.0.la /opt/local/lib/libffi.la /opt/local/lib/libgmodule-2.0.la /opt/local/lib/libglib-2.0.la -lresolv /opt/local/lib/libintl.la /opt/local/lib/libiconv.la -lc -lm'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob

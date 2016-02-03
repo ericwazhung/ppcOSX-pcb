@@ -1,0 +1,6 @@
+'../var/cache/fontconfig'
+ '../var/cache/fontconfig'
+  copied for '../lib/libfontconfig.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 12:06:49 PDT 2014

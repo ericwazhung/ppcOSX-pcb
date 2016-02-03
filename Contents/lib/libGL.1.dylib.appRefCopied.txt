@@ -1,0 +1,21 @@
+'../lib/libGL.1.dylib'
+ '../lib/libGL.1.dylib'
+  copied for 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 11:52:55 PDT 2014
+Also requested for '../lib/libgtkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:41 PDT 2014
+Also requested for '../lib/libgdkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:43 PDT 2014
+Also requested for '../lib/libGLU.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:52 PDT 2014
+Also requested for '../lib/libGL.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:08:38 PDT 2014

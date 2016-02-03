@@ -1,0 +1,24 @@
+
+'/opt/local/lib/libgthread-2.0.la /opt/local/lib/libffi.la /opt/local/lib/libgmodule-2.0.la /opt/local/lib/libglib-2.0.la -lresolv /opt/local/lib/libintl.la /opt/local/lib/libiconv.la -lc -lm /opt/local/lib/libfontconfig.la /opt/local/lib/libfreetype.la -lz -lbz2 /opt/local/lib/libexpat.la'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libgthread-2.0.la /opt/local/lib/libffi.la /opt/local/lib/libgmodule-2.0.la /opt/local/lib/libglib-2.0.la -lresolv /opt/local/lib/libintl.la /opt/local/lib/libiconv.la -lc -lm /opt/local/lib/libfontconfig.la /opt/local/lib/libfreetype.la -lz -lbz2 /opt/local/lib/libexpat.la'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libgthread-2.0.la /opt/local/lib/libffi.la /opt/local/lib/libgmodule-2.0.la /opt/local/lib/libglib-2.0.la -lresolv /opt/local/lib/libintl.la /opt/local/lib/libiconv.la -lc -lm /opt/local/lib/libfontconfig.la /opt/local/lib/libfreetype.la -lz -lbz2 /opt/local/lib/libexpat.la'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libgthread-2.0.la /opt/local/lib/libffi.la /opt/local/lib/libgmodule-2.0.la /opt/local/lib/libglib-2.0.la -lresolv /opt/local/lib/libintl.la /opt/local/lib/libiconv.la -lc -lm /opt/local/lib/libfontconfig.la /opt/local/lib/libfreetype.la -lz -lbz2 /opt/local/lib/libexpat.la'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libgthread-2.0.la /opt/local/lib/libffi.la /opt/local/lib/libgmodule-2.0.la /opt/local/lib/libglib-2.0.la -lresolv /opt/local/lib/libintl.la /opt/local/lib/libiconv.la -lc -lm /opt/local/lib/libfontconfig.la /opt/local/lib/libfreetype.la -lz -lbz2 /opt/local/lib/libexpat.la'' DNE. Requested by '../lib/pango/1.6.0/modules/pango-hebrew-fc.la'
+  from appReferences2.sh
+  via handJob

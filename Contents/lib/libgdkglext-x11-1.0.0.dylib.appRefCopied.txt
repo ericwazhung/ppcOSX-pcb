@@ -1,0 +1,13 @@
+'../lib/libgdkglext-x11-1.0.0.dylib'
+ '../lib/libgdkglext-x11-1.0.0.dylib'
+  copied for 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 11:52:55 PDT 2014
+Also requested for '../lib/libgtkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:40 PDT 2014
+Also requested for '../lib/libgdkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:43 PDT 2014

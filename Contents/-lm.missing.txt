@@ -1,0 +1,167 @@
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/libpangox-1.0.la'
+  from '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm' DNE. Requested by '../lib/libjasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'

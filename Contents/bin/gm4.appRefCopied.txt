@@ -1,0 +1,5 @@
+'../bin/gm4'
+ '../bin/gm4'
+  copied for 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 11:52:58 PDT 2014

@@ -1,0 +1,7 @@
+
+'/opt/local/lib/libjpeg.la'' DNE. Requested by '../lib/libjasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'

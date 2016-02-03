@@ -1,0 +1,10 @@
+'../share/fonts/100dpi/charB18.pcf.gz'
+ '../share/fonts/100dpi/charB18.pcf.gz'
+  copied for '../var/cache/fontconfig//f978d2703d887094acbebfa5c46dc3d2-be32d4.cache-3'
+  from '../var/cache/fontconfig/'
+  from for_fontConfigCache
+  at Sun Aug  3 21:26:51 PDT 2014
+Also requested for '../var/cache/fontconfig//f978d2703d887094acbebfa5c46dc3d2-be32d4.cache-4'
+  from '../var/cache/fontconfig/'
+  from for_fontConfigCache
+ at Sun Aug  3 21:32:48 PDT 2014

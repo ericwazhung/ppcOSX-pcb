@@ -1,0 +1,5 @@
+'../include/gdk-pixbuf-2.0/gdk-pixbuf'
+ '../include/gdk-pixbuf-2.0/gdk-pixbuf'
+  copied for '../lib/gdk-pixbuf-2.0/2.10.0/loaders/libopenraw_pixbuf.a'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 20:47:37 PDT 2014

@@ -1,0 +1,6 @@
+'../lib/libpangoxft-1.0.0.dylib'
+ '../lib/libpangoxft-1.0.0.dylib'
+  copied for '../lib/libpangoxft-1.0.0.dylib'
+  from appReferences2.sh
+via handJob
+  at Sun Aug  3 19:56:01 PDT 2014

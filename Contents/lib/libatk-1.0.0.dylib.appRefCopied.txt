@@ -1,0 +1,17 @@
+'../lib/libatk-1.0.0.dylib'
+ '../lib/libatk-1.0.0.dylib'
+  copied for 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 11:52:45 PDT 2014
+Also requested for '../lib/libgtk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:01:15 PDT 2014
+Also requested for '../lib/libatk-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:17 PDT 2014
+Also requested for '../lib/libgtkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:41 PDT 2014

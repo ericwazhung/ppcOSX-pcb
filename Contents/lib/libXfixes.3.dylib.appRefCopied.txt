@@ -1,0 +1,33 @@
+'../lib/libXfixes.3.dylib'
+ '../lib/libXfixes.3.dylib'
+  copied for 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 11:52:48 PDT 2014
+Also requested for '../lib/libgtk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:01:15 PDT 2014
+Also requested for '../lib/libgdk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:03 PDT 2014
+Also requested for '../lib/libXcursor.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:26 PDT 2014
+Also requested for '../lib/libXdamage.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:40 PDT 2014
+Also requested for '../lib/libXfixes.3.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:04:17 PDT 2014
+Also requested for '../lib/libgtkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:42 PDT 2014
+Also requested for '../lib/libgdkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:45 PDT 2014

@@ -1,0 +1,5 @@
+
+'/opt/local/-lbz2'' DNE. Requested by '../lib/libfreetype.la'
+  from '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob

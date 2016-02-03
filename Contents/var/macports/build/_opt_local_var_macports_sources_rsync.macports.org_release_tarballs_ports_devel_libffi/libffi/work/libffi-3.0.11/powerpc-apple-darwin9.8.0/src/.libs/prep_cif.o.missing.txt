@@ -1,0 +1,5 @@
+
+'/opt/local/var/macports/build/_opt_local_var_macports_sources_rsync.macports.org_release_tarballs_ports_devel_libffi/libffi/work/libffi-3.0.11/powerpc-apple-darwin9.8.0/src/.libs/prep_cif.o' DNE. Requested by '../lib/libffi.6.dylib'
+  from '../lib/libgtk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'

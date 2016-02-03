@@ -1,0 +1,15 @@
+'../lib/libopenraw.1.dylib'
+ '../lib/libopenraw.1.dylib'
+  copied for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libopenraw_pixbuf.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 20:11:41 PDT 2014
+Also requested for '../lib/libopenraw.1.dylib'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libopenraw_pixbuf.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:11:42 PDT 2014

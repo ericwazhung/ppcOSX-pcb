@@ -1,0 +1,16 @@
+'../include/boost/format/format_implementation.hpp'
+ '../include/boost/format/format_implementation.hpp'
+  copied for '../lib/libopenraw.1.dylib'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libopenraw_pixbuf.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 20:11:45 PDT 2014
+Also requested for '../lib/libopenraw.1.dylib'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libopenraw_pixbuf.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:07 PDT 2014

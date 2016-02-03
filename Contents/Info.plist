@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>pcb</string>
+				<string>PCB</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>pcb.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>gnuPCB layout</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>PCB</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSIsAppleDefaultForType</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>dcm</string>
+				<string>DCM</string>
+				<string>dicom</string>
+				<string>DICOM</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>xcf.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>DICOM Image</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>DCOM</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>pcb.sh</string>
+	<key>CFBundleGetInfoString</key>
+	<string>2.8, ©The GIMP Team, hacked by Meh</string>
+	<key>CFBundleIconFile</key>
+	<string>Gimp.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.pcb.pcb</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>PCB</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>20110918</string>
+	<key>CFBundleSignature</key>
+	<string>GiMP</string>
+	<key>CFBundleVersion</key>
+	<string>20110918</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2011 The PCB team</string>
+</dict>
+</plist>

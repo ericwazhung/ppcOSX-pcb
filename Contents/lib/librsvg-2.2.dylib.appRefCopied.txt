@@ -1,0 +1,15 @@
+'../lib/librsvg-2.2.dylib'
+ '../lib/librsvg-2.2.dylib'
+  copied for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-svg.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 20:17:29 PDT 2014
+Also requested for '../lib/librsvg-2.2.dylib'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-svg.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:32 PDT 2014

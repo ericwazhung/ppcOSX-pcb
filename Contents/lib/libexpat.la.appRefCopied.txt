@@ -1,0 +1,54 @@
+'../lib/libexpat.la'
+ '../lib/libexpat.la'
+  copied for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+  at Sun Aug  3 19:53:43 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:47 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:51 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:55 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:58 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:59 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:01 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:02 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:03 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:04 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:04 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:04 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:05 PDT 2014

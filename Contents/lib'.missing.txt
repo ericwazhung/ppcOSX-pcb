@@ -1,0 +1,4 @@
+
+'/opt/local/lib'' DNE. Requested by '../lib/libXdmcp.la'
+  from via HandJob
+because it was missing due to a stray quote

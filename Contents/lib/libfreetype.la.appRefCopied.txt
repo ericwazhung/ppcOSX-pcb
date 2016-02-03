@@ -1,0 +1,1867 @@
+'../lib/libfreetype.la'
+ '../lib/libfreetype.la'
+  copied for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+  at Sun Aug  3 19:21:30 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:54 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:55 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:57 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:59 PDT 2014
+Also requested for '../lib/libfontconfig.la'
+  from '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:22:08 PDT 2014
+Also requested for '../lib/libfontconfig.la'
+  from '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:22:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:22:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:22:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:04 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:08 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:16 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:22 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:32 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:42 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:55 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:57 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:34 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:42 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:44 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:48 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:56 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:12 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:16 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:28 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:43 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:50 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:28 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:39 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:39 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:55 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:03 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:06 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:08 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:10 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:12 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:22 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:27 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:41 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:43 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:57 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:02 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:06 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:10 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:18 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:22 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:22 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:28 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:41 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:44 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:48 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:50 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:18 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:25 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:25 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:34 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:39 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:43 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:50 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:54 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:56 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:57 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:06 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:27 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:30 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:30 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:56 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:03 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:03 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:04 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:54 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:10 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:12 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:30 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:39 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:41 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:43 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:44 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:02 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:06 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:16 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:18 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:18 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:27 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:32 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:43 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:48 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:50 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:12 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:16 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:34 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:42 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:54 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:54 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:03 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:08 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:16 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:25 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:27 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:28 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:28 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:44 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:48 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:55 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:56 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:57 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:06 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:22 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:27 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:30 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:30 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:42 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:48 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:56 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:03 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:06 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:08 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:08 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:08 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:28 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:34 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:39 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:39 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:41 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:41 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:56 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:03 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:10 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:12 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:13 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:42 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:47 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:51 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:55 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:57 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:59 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:01 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:02 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:03 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:03 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:04 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:54:04 PDT 2014

@@ -1,0 +1,10 @@
+'../etc/pango'
+ '../etc/pango'
+  copied for '../lib/libpango-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 12:06:10 PDT 2014
+('../etc/pango/pangox.aliases' was) Also requested for '../lib/libpangox-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:09:35 PDT 2014

@@ -1,0 +1,6 @@
+'../share/X11/XErrorDB'
+ '../share/X11/XErrorDB'
+  copied for '../lib/libX11.6.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 12:04:40 PDT 2014

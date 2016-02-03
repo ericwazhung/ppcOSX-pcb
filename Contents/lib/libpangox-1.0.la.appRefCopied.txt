@@ -1,0 +1,47 @@
+'../lib/libpangox-1.0.la'
+ '../lib/libpangox-1.0.la'
+  copied for '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+  at Sun Aug  3 19:26:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:02 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:12 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:39 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:44 PDT 2014

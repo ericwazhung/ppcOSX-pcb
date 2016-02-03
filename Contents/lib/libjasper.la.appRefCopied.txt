@@ -1,0 +1,20 @@
+'../lib/libjasper.la'
+ '../lib/libjasper.la'
+  copied for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 20:14:42 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:47 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:52 PDT 2014

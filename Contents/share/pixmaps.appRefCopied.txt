@@ -1,0 +1,10 @@
+'../share/pixmaps'
+ '../share/pixmaps'
+  copied for '../lib/libXcursor.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 12:03:30 PDT 2014
+Also requested for '../lib/libXcursor.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:30 PDT 2014

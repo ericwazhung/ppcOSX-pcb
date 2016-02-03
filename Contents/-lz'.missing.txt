@@ -1,0 +1,7 @@
+
+'/opt/local/-lz'' DNE. Requested by '../lib/libpng15.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'

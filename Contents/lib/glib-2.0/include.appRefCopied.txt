@@ -1,0 +1,5 @@
+'../lib/glib-2.0/include'
+ '../lib/glib-2.0/include'
+  copied for '../lib/gdk-pixbuf-2.0/2.10.0/loaders/libopenraw_pixbuf.a'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 20:48:33 PDT 2014

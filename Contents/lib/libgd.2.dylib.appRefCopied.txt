@@ -1,0 +1,9 @@
+'../lib/libgd.2.dylib'
+ '../lib/libgd.2.dylib'
+  copied for 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 11:52:54 PDT 2014
+Also requested for '../lib/libgd.2.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:35 PDT 2014

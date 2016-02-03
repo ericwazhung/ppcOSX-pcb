@@ -1,0 +1,4 @@
+
+'/opt/local/lib/X11/XtErrorDB' DNE. Requested by '../lib/libXt.6.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'

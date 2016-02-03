@@ -1,0 +1,33 @@
+
+'/opt/local/lib/libXdmcp.la'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libXdmcp.la'' DNE. Requested by '../lib/libpangox-1.0.la'
+  from '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libXdmcp.la'' DNE. Requested by '../lib/libX11.la'
+  from '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libXdmcp.la'' DNE. Requested by '../lib/libxcb.la'
+  from '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libXdmcp.la'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/lib/libXdmcp.la'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob

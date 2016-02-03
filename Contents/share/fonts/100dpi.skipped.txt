@@ -1,0 +1,6 @@
+
+'/opt/local/share/fonts/100dpi', Requested by '../var/cache/fontconfig//77dc97c710c18bfdf26ed458c2a686da-be32d4.cache-3'
+  from '../var/cache/fontconfig/'
+  from for_fontConfigCache,
+  was skipped via user-option in /Users/meh/myexecs/appReferences2.sh
+  Most-likely, the necessary pieces have been copied-over via other callers...

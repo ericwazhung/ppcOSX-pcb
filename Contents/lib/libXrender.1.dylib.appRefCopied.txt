@@ -1,0 +1,63 @@
+'../lib/libXrender.1.dylib'
+ '../lib/libXrender.1.dylib'
+  copied for 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 11:52:43 PDT 2014
+Also requested for '../lib/libXrender.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:00:38 PDT 2014
+Also requested for '../lib/libgtk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:01:16 PDT 2014
+Also requested for '../lib/libgdk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:04 PDT 2014
+Also requested for '../lib/libpangocairo-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:21 PDT 2014
+Also requested for '../lib/libXrandr.2.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:25 PDT 2014
+Also requested for '../lib/libXcursor.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:26 PDT 2014
+Also requested for '../lib/libcairo.2.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:04:19 PDT 2014
+Also requested for '../lib/libgtkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:42 PDT 2014
+Also requested for '../lib/libgdkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:44 PDT 2014
+Also requested for '../lib/libpangoxft-1.0.0.dylib'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:56:02 PDT 2014
+Also requested for '../lib/libXft.2.dylib'
+  from '../lib/libpangoxft-1.0.0.dylib'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:56:03 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-svg.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:30 PDT 2014
+Also requested for '../lib/librsvg-2.2.dylib'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-svg.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:33 PDT 2014

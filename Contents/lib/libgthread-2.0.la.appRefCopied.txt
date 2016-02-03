@@ -1,0 +1,1968 @@
+'../lib/libgthread-2.0.la'
+ '../lib/libgthread-2.0.la'
+  copied for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+  at Sun Aug  3 19:21:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:44 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:21:50 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:22:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:22:57 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:02 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:06 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:12 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:41 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:44 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:23:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-fc.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:27 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:42 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:48 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:55 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:24:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:02 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:10 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-arabic-lang.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:12 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:27 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:25:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:03 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:10 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:12 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:41 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:26:43 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:18 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:20 PDT 2014
+Also requested for '../lib/libpangox-1.0.la'
+  from '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:32 PDT 2014
+Also requested for '../lib/libpangox-1.0.la'
+  from '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:37 PDT 2014
+Also requested for '../lib/libpangox-1.0.la'
+  from '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:43 PDT 2014
+Also requested for '../lib/libpangox-1.0.la'
+  from '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:45 PDT 2014
+Also requested for '../lib/libpangox-1.0.la'
+  from '../lib/pango/1.6.0/modules//pango-basic-x.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:27:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:04 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:41 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:28:55 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:18 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:04 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:25 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hangul-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:30:55 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:04 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:08 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:39 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:42 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:31:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:03 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-hebrew-fc.la.originalBackup.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:16 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:32 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:42 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:48 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:32:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:04 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:22 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:43 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:50 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:53 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:33:56 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:10 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:16 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:21 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:27 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:32 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:34 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-indic-lang.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:47 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:52 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:34:56 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:03 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:24 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:28 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:32 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:37 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:35:56 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:00 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:04 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-khmer-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:09 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:25 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:31 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:35 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:41 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:44 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:36:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:04 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:08 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:10 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:15 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:27 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:32 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:36 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:40 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:43 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-syriac-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:37:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:07 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:11 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:33 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:42 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:49 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:38:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:04 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:10 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:14 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:17 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:20 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-thai-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:38 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:46 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:50 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:54 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:57 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:39:59 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:13 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:19 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:23 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:26 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:29 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:32 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:45 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:51 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:55 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:40:58 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:01 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-tibetan-fc.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:41:04 PDT 2014
+Also requested for '../lib/libgobject-2.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:49:53 PDT 2014
+Also requested for '../lib/libgobject-2.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:49:54 PDT 2014
+Also requested for '../lib/libgobject-2.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:49:55 PDT 2014
+Also requested for '../lib/libpango-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:09 PDT 2014
+Also requested for '../lib/libpango-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:11 PDT 2014
+Also requested for '../lib/libpango-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:12 PDT 2014
+Also requested for '../lib/libpango-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:13 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:40 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:45 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:49 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:53 PDT 2014
+Also requested for '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:53:56 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:38 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:41 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:44 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:47 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:48 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:50 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:51 PDT 2014
+Also requested for '../lib/libgdk_pixbuf-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:57 PDT 2014
+Also requested for '../lib/libgdk_pixbuf-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:12:59 PDT 2014
+Also requested for '../lib/libgdk_pixbuf-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:01 PDT 2014
+Also requested for '../lib/libgdk_pixbuf-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:03 PDT 2014
+Also requested for '../lib/libgdk_pixbuf-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:04 PDT 2014
+Also requested for '../lib/libgdk_pixbuf-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:05 PDT 2014
+Also requested for '../lib/libgio-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:10 PDT 2014
+Also requested for '../lib/libgio-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:12 PDT 2014
+Also requested for '../lib/libgio-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:13 PDT 2014
+Also requested for '../lib/libgio-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:15 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-bmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:23 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-bmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:27 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-bmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:29 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-bmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:31 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-bmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:33 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-bmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:33 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-bmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:34 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-gif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:41 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-gif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:44 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-gif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:47 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-gif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:49 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-gif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:51 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-gif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:52 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-gif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:13:53 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-icns.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:01 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-icns.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:05 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-icns.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:09 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-icns.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:11 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-icns.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:12 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-icns.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:14 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-icns.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:15 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ico.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:22 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ico.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:27 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ico.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:29 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ico.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:31 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ico.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:33 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ico.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:34 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ico.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:35 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:45 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:50 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:54 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:14:57 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:00 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:02 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:04 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:05 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:07 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jpeg.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:22 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jpeg.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:26 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jpeg.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:29 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jpeg.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:32 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jpeg.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:35 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jpeg.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:36 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jpeg.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:37 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jpeg.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:39 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pcx.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:49 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pcx.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:53 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pcx.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:55 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pcx.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:15:58 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pcx.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:00 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pcx.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:01 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pcx.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:02 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-png.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:10 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-png.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:13 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-png.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:15 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-png.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:18 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-png.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:19 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-png.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:21 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-png.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:22 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pnm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:30 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pnm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:34 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pnm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:36 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pnm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:39 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pnm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:41 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pnm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:42 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pnm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:43 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-qtif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:51 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-qtif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:54 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-qtif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:57 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-qtif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:16:59 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-qtif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:01 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-qtif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:02 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-qtif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:03 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ras.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:11 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ras.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:14 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ras.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:17 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ras.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:19 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ras.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:21 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ras.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:22 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ras.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:23 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tga.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:14 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tga.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:17 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tga.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:20 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tga.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:22 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tga.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:23 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tga.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:25 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tga.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:26 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:36 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:41 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:45 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:49 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:51 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:53 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:55 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:56 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:18:57 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-wbmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:14 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-wbmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:17 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-wbmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:20 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-wbmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:22 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-wbmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:24 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-wbmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:25 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-wbmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:26 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xbm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:34 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xbm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:38 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xbm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:40 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xbm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:43 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xbm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:44 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xbm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:46 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xbm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:47 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xpm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:55 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xpm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:19:59 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xpm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:20:02 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xpm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:20:04 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xpm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:20:06 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xpm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:20:07 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xpm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:20:08 PDT 2014

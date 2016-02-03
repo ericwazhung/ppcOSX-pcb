@@ -1,0 +1,13 @@
+'../lib/libXpm.4.dylib'
+ '../lib/libXpm.4.dylib'
+  copied for 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 11:52:51 PDT 2014
+Also requested for '../lib/libXpm.4.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:07 PDT 2014
+Also requested for '../lib/libgd.2.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:35 PDT 2014

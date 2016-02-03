@@ -1,0 +1,38 @@
+
+'/opt/local/-lc'' DNE. Requested by '../lib/libgthread-2.0.la'
+  from '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lc'' DNE. Requested by '../lib/libgmodule-2.0.la'
+  from '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lc'' DNE. Requested by '../lib/libglib-2.0.la'
+  from '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lc'' DNE. Requested by '../lib/libintl.la'
+  from '../lib/pango/1.6.0/modules/pango-hebrew-fc.la.originalBackup'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lc'' DNE. Requested by '../lib/libgobject-2.0.la'
+  from appReferences2.sh
+via handJob
+
+'/opt/local/-lc'' DNE. Requested by '../lib/libgio-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lc'' DNE. Requested by '../lib/libtiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'

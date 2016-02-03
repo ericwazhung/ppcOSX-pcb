@@ -1,0 +1,44 @@
+'../lib/libxcb-shm.0.dylib'
+ '../lib/libxcb-shm.0.dylib'
+  copied for '../lib/libgtk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 12:01:15 PDT 2014
+Also requested for '../lib/libxcb-shm.0.dylib'
+  from '../lib/libgtk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:01:31 PDT 2014
+Also requested for '../lib/libgdk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:04 PDT 2014
+Also requested for '../lib/libpangocairo-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:20 PDT 2014
+Also requested for '../lib/libcairo.2.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:04:19 PDT 2014
+Also requested for '../lib/libgtkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:41 PDT 2014
+Also requested for '../lib/libgdkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:44 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-svg.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:30 PDT 2014
+Also requested for '../lib/librsvg-2.2.dylib'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-svg.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:33 PDT 2014

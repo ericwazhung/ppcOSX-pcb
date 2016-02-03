@@ -1,0 +1,4 @@
+
+'/opt/local/var/macports/build/_opt_local_var_macports_sources_rsync.macports.org_release_tarballs_ports_x11_mesa/mesa/work/Mesa-8.0.4/src/glx/apple/apple_visual.o' DNE. Requested by '../lib/libGL.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'

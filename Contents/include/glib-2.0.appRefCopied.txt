@@ -1,0 +1,11 @@
+'../include/glib-2.0'
+ '../include/glib-2.0'
+  copied for '../lib/gdk-pixbuf-2.0/2.10.0/loaders/libopenraw_pixbuf.a'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 20:48:32 PDT 2014
+('../include/glib-2.0/glib' was) Also requested for '../lib/gdk-pixbuf-2.0/2.10.0/loaders/libopenraw_pixbuf.a'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:48:32 PDT 2014
+('../include/glib-2.0/gobject' was) Also requested for '../lib/gdk-pixbuf-2.0/2.10.0/loaders/libopenraw_pixbuf.a'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:48:32 PDT 2014

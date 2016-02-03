@@ -1,0 +1,11 @@
+'../lib/libXft.2.dylib'
+ '../lib/libXft.2.dylib'
+  copied for '../lib/libpangoxft-1.0.0.dylib'
+  from appReferences2.sh
+via handJob
+  at Sun Aug  3 19:56:02 PDT 2014
+Also requested for '../lib/libXft.2.dylib'
+  from '../lib/libpangoxft-1.0.0.dylib'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:56:03 PDT 2014

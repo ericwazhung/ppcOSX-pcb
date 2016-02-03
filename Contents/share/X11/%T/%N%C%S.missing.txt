@@ -1,0 +1,4 @@
+
+'/opt/local/share/X11/%T/%N%C%S' DNE. Requested by '../lib/libXt.6.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'

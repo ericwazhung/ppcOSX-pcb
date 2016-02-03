@@ -1,0 +1,4 @@
+
+'/opt/local/lib/gio/modules' DNE. Requested by '../lib/libgio-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'

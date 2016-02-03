@@ -1,0 +1,1 @@
+'/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib'' DNE. Requested by '../Library/Frameworks/Python.framework/Versions/Current/lib/libpyglib-2.0-python2.7.la'

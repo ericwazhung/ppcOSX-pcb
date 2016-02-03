@@ -1,0 +1,134 @@
+'../lib/libXau.6.dylib'
+ '../lib/libXau.6.dylib'
+  copied for '../lib/libXinerama.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+  at Sun Aug  3 12:00:34 PDT 2014
+Also requested for '../lib/libxcb.1.dylib'
+  from '../lib/libXinerama.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:00:34 PDT 2014
+Also requested for '../lib/libXau.6.dylib'
+  from '../lib/libXinerama.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:00:37 PDT 2014
+Also requested for '../lib/libXrender.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:00:38 PDT 2014
+Also requested for '../lib/libgtk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:01:16 PDT 2014
+Also requested for '../lib/libX11-xcb.1.dylib'
+  from '../lib/libgtk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:01:32 PDT 2014
+Also requested for '../lib/libgdk-x11-2.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:04 PDT 2014
+Also requested for '../lib/libpangocairo-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:21 PDT 2014
+Also requested for '../lib/libXi.6.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:23 PDT 2014
+Also requested for '../lib/libXrandr.2.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:25 PDT 2014
+Also requested for '../lib/libXcursor.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:26 PDT 2014
+Also requested for '../lib/libXcomposite.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:39 PDT 2014
+Also requested for '../lib/libXdamage.1.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:03:40 PDT 2014
+Also requested for '../lib/libXfixes.3.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:04:17 PDT 2014
+Also requested for '../lib/libX11.6.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:04:40 PDT 2014
+Also requested for '../lib/libXext.6.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:06:08 PDT 2014
+Also requested for '..//lib/pango/1.6.0/modules/pango-basic-x.so'
+  from '../lib/libpango-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:06:17 PDT 2014
+Also requested for '../lib/libXpm.4.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:07 PDT 2014
+Also requested for '../lib/libgd.2.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:35 PDT 2014
+Also requested for '../lib/libgtkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:41 PDT 2014
+Also requested for '../lib/libgdkglext-x11-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:07:43 PDT 2014
+Also requested for '../lib/libXmu.6.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:09:02 PDT 2014
+Also requested for '../lib/libXt.6.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:09:05 PDT 2014
+Also requested for '../lib/libpangox-1.0.0.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 12:09:34 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.so'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:05 PDT 2014
+Also requested for '../lib/pango/1.6.0/modules//pango-basic-x.so.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+ at Sun Aug  3 19:29:07 PDT 2014
+Also requested for '../lib/libpangoxft-1.0.0.dylib'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:56:02 PDT 2014
+Also requested for '../lib/libXft.2.dylib'
+  from '../lib/libpangoxft-1.0.0.dylib'
+  from appReferences2.sh
+via handJob
+ at Sun Aug  3 19:56:03 PDT 2014
+Also requested for '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-svg.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:30 PDT 2014
+Also requested for '../lib/librsvg-2.2.dylib'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-svg.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+ at Sun Aug  3 20:17:33 PDT 2014

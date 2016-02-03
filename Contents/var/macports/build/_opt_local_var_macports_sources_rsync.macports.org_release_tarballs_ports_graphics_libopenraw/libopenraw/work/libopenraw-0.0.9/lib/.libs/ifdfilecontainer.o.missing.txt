@@ -1,0 +1,7 @@
+
+'/opt/local/var/macports/build/_opt_local_var_macports_sources_rsync.macports.org_release_tarballs_ports_graphics_libopenraw/libopenraw/work/libopenraw-0.0.9/lib/.libs/ifdfilecontainer.o' DNE. Requested by '../lib/libopenraw.1.dylib'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libopenraw_pixbuf.so'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'

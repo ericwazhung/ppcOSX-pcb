@@ -1,0 +1,6 @@
+
+'/opt/local/share', Requested by '../lib/libdbus-1.3.dylib'
+  from 'pcb'
+  from '/Users/meh/myexecs/appReferences2.sh',
+  was skipped via user-option in /Users/meh/myexecs/appReferences2.sh
+  Most-likely, the necessary pieces have been copied-over via other callers...

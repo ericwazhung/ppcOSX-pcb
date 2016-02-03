@@ -1,0 +1,147 @@
+
+'/opt/local/-lm'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handJob.originalBackup.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-lang.la.handjobWhoops.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-arabic-lang.la.originalBackup'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-indic-lang.la'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-indic-lang.la.handJob.originalBackup.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm'' DNE. Requested by '../lib/pango/1.6.0/modules//pango-indic-lang.la.handjobWhoops'
+  from '../lib/pango/1.6.0/modules/'
+  from appReferences2.sh
+  via handJob
+
+'/opt/local/-lm'' DNE. Requested by '../lib/libpango-1.0.la'
+  from appReferences2.sh
+via handJob
+
+'/opt/local/-lm'' DNE. Requested by '../lib/libpangoft2-1.0.la'
+  from appReferences2.sh
+via handJob
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/libgdk_pixbuf-2.0.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ani.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-bmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-gif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-icns.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ico.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jasper.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-jpeg.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pcx.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-png.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-pnm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-qtif.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-ras.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tga.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-tiff.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-wbmp.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xbm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
+
+'/opt/local/-lm'' DNE. Requested by '../lib/gdk-pixbuf-2.0//2.10.0/loaders/libpixbufloader-xpm.la'
+  from '../lib/gdk-pixbuf-2.0//2.10.0/loaders'
+  from '../lib/gdk-pixbuf-2.0//2.10.0'
+  from '../lib/gdk-pixbuf-2.0/'
+  from '/Users/meh/myexecs/appReferences2.sh'
